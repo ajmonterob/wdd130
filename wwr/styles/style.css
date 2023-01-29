@@ -1,0 +1,105 @@
+
+
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+  
+    
+#hero-msg h1, #hero-msg h4 {
+    text-align: center;
+}
+    
+.button-box {
+    text-align: center;
+}
+    
+main section {
+    text-align: center;
+}
+
+
+body {
+    background-color: #63A46C;
+    color: #233329;
+    }
+    
+header {
+    background-color: #6A7152;
+    color: white;
+    }
+    
+nav a {
+    text-align: center;
+    color: #63D471;
+    text-decoration: none;
+    }
+    
+nav a:hover {
+    background-color: #69FFF1;
+    color: white;
+    }
+    
+.home-title {
+    color: #233329;
+    }
+    
+h4 {
+    color: white;
+    }
+    
+.book, .join {
+    background-color: #6A7152;
+    color: white;
+    text-decoration: none;
+    }
+    
+.book:hover, .join:hover {
+    background-color: #69FFF1;
+    color: #233329;
+    }
+    
+.msg h2 {
+    color: white;
+    }
+    
+.msg p {
+    color: #233329;
+    }
+    
+footer {
+    background-color: #6A7152;
+    color: white;
+    }
+    
+footer a {
+    color: #63D471;
+    
+    }
+    
+footer a:hover {
+    color: white;
+    }
+    
+#background {
+    background-color: #63A46C;
+    }
+
+
+.icon {
+        width: 80px;
+    }
+
+#hero-img {
+        width: 100%;
+    }
+
+footer p {
+        font-size: 1.2em;
+    } 
+    
+footer p a:hover {
+        text-decoration: underline;
+    }  
+        
