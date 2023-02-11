@@ -46,8 +46,9 @@ nav a {
     }
     
 nav a:hover {
-    background-color: #69FFF1;
+    background-color: #5A5B5C;
     color: white;
+    height: 15px;
     }
     
 .home-title {
@@ -69,7 +70,7 @@ h4 {
     }
     
 .book:hover, .join:hover {
-    background-color: #69FFF1;
+    background-color: #5A5B5C;
     color: #233329;
     }
     
@@ -91,9 +92,10 @@ footer {
     }
     
 footer a {
-    color: #63D471;
-    
+        color: #63D471;
+        text-decoration: none;
     }
+    
     
 footer a:hover {
     color: white;
